@@ -282,6 +282,13 @@ eziTrade</a></div>
 </li>
 
 <li class="nav-item" id="report_brand_summary">
+<a class="nav-link" href="gstr_sale_summery">
+<span class="sidebar-mini"> PR </span>
+<span class="sidebar-normal"> Sales Summery </span>
+</a>
+</li>
+
+<li class="nav-item" id="report_brand_summary">
 <a class="nav-link" href="gstr2a_details">
 <span class="sidebar-mini"> PR </span>
 <span class="sidebar-normal"> GSTR-2A (Purchase Return) </span>

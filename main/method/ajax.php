@@ -293,4 +293,12 @@ if(isset($_POST['pGstr2a_fd'])){
     $_SESSION['pgetr2a_td'] = $_POST['pgetr2a_td'];
     $_SESSION['pgstr2a_wh'] = $_POST['pgstr2a_wh'];
 }
+if(isset($_POST['pItemWise_GST_fd'])){
+    $_SESSION['pItemWise_GST_fd'] = $_POST['pItemWise_GST_fd'];
+    $_SESSION['pItemwise_GST_td'] = $_POST['pItemwise_GST_td'];
+    $_SESSION['pItemwise_GST_whare'] = $_POST['pItemwise_GST_whare'];
+    $_SESSION['pItemwise_GST_cat'] = $_POST['pItemwise_GST_cat'];
+    $_SESSION['pItemwisep_GST_unit'] = $_POST['pItemwisep_GST_unit'];
+    $_SESSION['pItemwise_GST_cat_name'] = $_POST['pItemwise_GST_cat_name'];
+}
 ?>
